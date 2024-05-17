@@ -1,0 +1,22 @@
+
+.nav-element {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #152850;
+}
+
+.website-logo {
+  width: 100px;
+  margin: 20px;
+}
+
+.logout-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 1px;
+  padding: 10px;
+  width: 100px;
+}
